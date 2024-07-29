@@ -1,0 +1,3 @@
+C:/Users/tfam7/OneDrive/Ambiente de Trabalho/Universidade Tiago/2Ano/POO/Trabalho/cmake-build-debug/CMakeFiles/Trabalho.dir
+C:/Users/tfam7/OneDrive/Ambiente de Trabalho/Universidade Tiago/2Ano/POO/Trabalho/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tfam7/OneDrive/Ambiente de Trabalho/Universidade Tiago/2Ano/POO/Trabalho/cmake-build-debug/CMakeFiles/rebuild_cache.dir

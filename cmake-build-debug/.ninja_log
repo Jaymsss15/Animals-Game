@@ -1,0 +1,21 @@
+# ninja log v5
+6	480	6949085508571669	CMakeFiles/Trabalho.dir/Alimentos.cpp.obj	2bd4cd6675dd93a7
+10	541	6949085509188098	CMakeFiles/Trabalho.dir/Animais.cpp.obj	d2fa6ea77e100423
+3	1410	6949090881437390	CMakeFiles/Trabalho.dir/main.cpp.obj	4fdc11c889b93ba
+1411	1575	6949090883060407	Trabalho.exe	ded9f9d72ae6a353
+13	1108	6949085514854060	CMakeFiles/Trabalho.dir/Reserva.cpp.obj	dde7316e953a6047
+5	1473	6949089979283759	CMakeFiles/Trabalho.dir/Comandos.cpp.obj	d0162db77178933b
+28	1431	6949095570731948	CMakeFiles/Trabalho.dir/Alimentos.cpp.obj	5de46bb7eb7d8061
+2	1529	6949095571894069	CMakeFiles/Trabalho.dir/Animais.cpp.obj	a1853f400a2d38da
+16	2774	6949095584517528	CMakeFiles/Trabalho.dir/Reserva.cpp.obj	25e0cf48cbc13e14
+9	3428	6949095591249092	CMakeFiles/Trabalho.dir/Comandos.cpp.obj	98f69d147bb9ea42
+42	3686	6949095593843936	CMakeFiles/Trabalho.dir/main.cpp.obj	fa4d3b54dbac2a5a
+3687	4584	6949095602568732	Trabalho.exe	dd1cf744c507aa4d
+4	1811	6949102474063873	CMakeFiles/Trabalho.dir/main.cpp.obj	fa4d3b54dbac2a5a
+1812	2027	6949102476173000	Trabalho.exe	dd1cf744c507aa4d
+6	1344	6949110188557379	CMakeFiles/Trabalho.dir/Reserva.cpp.obj	25e0cf48cbc13e14
+1345	1723	6949110192283184	Trabalho.exe	dd1cf744c507aa4d
+3	1458	6949115510514821	CMakeFiles/Trabalho.dir/Reserva.cpp.obj	25e0cf48cbc13e14
+1459	1824	6949115514120832	Trabalho.exe	dd1cf744c507aa4d
+4	984	6949117397733900	CMakeFiles/Trabalho.dir/Reserva.cpp.obj	25e0cf48cbc13e14
+985	1203	6949117399890176	Trabalho.exe	dd1cf744c507aa4d
